@@ -1,0 +1,106 @@
+@media screen and (max-width: 992px) { 
+	.header{
+		height: 800px;
+		background: #f3f3f5;
+	}
+	.img_iphone{
+		display: none;
+	}
+	.phone__screen img{
+		width: 100%;
+		margin-left: 110px;
+	}
+	.logo{
+		padding-left: 40px;
+	}
+	br {
+	  display: none;
+	}
+	.real_adopt{
+		display: inline-block;
+		padding-right: 20px;
+	}
+	.divdier{
+		margin: 75px 0 !important;
+	}
+	.your_protected{
+		text-align: center;
+		padding-top: 50px;
+	}
+	.your_protected:nth-child(2) {
+	    margin-top: 30px !important;
+}
+	.btn_hack, .btn_learn{
+		margin: 30px 10px 0 auto !important;
+	}
+	.btn_learn{
+		margin: 30px auto  0 10px !important;
+	}
+	.footer_logo{
+		text-align: center;
+	}
+	.newprovidance__intro{
+		text-align: center;
+	}
+	.btn_apple{
+		margin: auto;
+		text-align: center;
+	}
+	.wrapper_menu{
+		display: none !important;
+	}
+	.title__happens{
+		margin-top: 50px !important;
+	}
+
+
+
+
+
+@media screen and (max-width: 768px) { 
+	.header{
+		max-height: 700px;
+	}
+	.btn_started{
+		margin-top: 28px !important;
+	}
+	.your_protected{
+		padding: 30px 0 0 0;
+	}
+}
+
+
+
+@media screen and (max-width: 580px) { 
+	.header{
+		height: 600px;
+	}
+	.divdier{
+		margin: 50px auto !important;
+	}
+	.worldmap img{
+		margin-top: 30px;
+		max-width: 500px;
+	}
+	.choose__title{
+		text-align: center;
+	}
+	.starter_wrapper{
+		margin: 0 0!important;
+	}
+	.your_choose{
+		margin-top: 50px !important;
+	}
+	.choose_wrapper{
+		margin: 80px 0 0 0 !important;
+	}
+	.title__happens{
+		font-size: 53px !important;
+	}
+	.your_protected{
+		padding-top: 0;
+	}
+	.your_protected_title{
+		margin-top: 30px !important;
+	}	
+}
